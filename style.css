@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    background-color: black;
+}
+
+.titulo{
+    color: white;
+    font-size: 50px;
+    padding-bottom: 9px;
+}
+#resultado{
+    color: white;
+    font-size: 40px;
+}
+
+button{
+    border: none;
+    background-color: rgb(255, 0, 0);
+    font-size: 50px;
+    color: white;
+    width: 80px;
+    height: 80px;
+}
+
+button:hover{
+    cursor: pointer;
+}
